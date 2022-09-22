@@ -1,0 +1,44 @@
+body {
+    background-color:gold;
+}
+
+img{
+    border-radius:50%;
+    width: 50%;
+    height:25%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    display:block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#header {
+    background-color:deeppink;
+    text-align:center;
+    border-width:5px;
+    border-style:solid;
+}
+
+#list{
+    border-width: 1px;
+    border-style:solid;
+    border-color:black;
+    padding:15px;
+    margin-left: 35%;
+}
+
+#navlinks{
+   position:fixed; 
+}
+
+#footer{
+    text-align:center;
+    background-color:pink;
+    border-style:solid;
+    border-color:black;
+    border-width:5px;
+    padding-top:30px;
+    padding-bottom:30px;
+}
